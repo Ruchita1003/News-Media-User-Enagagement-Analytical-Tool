@@ -2,7 +2,7 @@
 
 <!-- Click here for the Video Walkthrough: [![Video Walkthrough](https://img.shields.io/badge/-Analyzing%20OTT%20Platforms-red??style=social&logo=Youtube&link=https://www.youtube.com/watch?v=XDs-nJZxyO4/view?usp=sharing)](https://www.youtube.com/watch?v=XDs-nJZxyO4/view?usp=sharing) -->
 
-Notebook best viewed in Google Collab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ruchita1003/News-Media-User-Enagagement-Analytical-Tool/blob/main/Project_Final.ipynb)<br>
+Notebook best viewed in Google Collab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ruchita1003/News-Media-User-Enagagement-Analytical-Tool/blob/main/News_User_Engagement_Tool.ipynb)<br>
 
 ### Steps to run the project:
 - Open the notebook in colab.
